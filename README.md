@@ -1,11 +1,11 @@
-# my-favorite-movie
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barbie Princess Charm School</title>
- <header><h1>Barbie Princess Charm School</h1></header>
+
+<header><h1>Barbie Princess Charm School</h1></header>
     <p>Ik hield van deze film toen ik klein was. Nu is het meer nostalgisch voor mij.</p>
 
 <section>
@@ -24,7 +24,9 @@
 
 <img src="/img/barbiefoto.jpg" alt="Barbie en vriendinnen" style="width: 700px;height: 400px;"> 
 
-<a href="https://www.youtube.com/watch?v=GztMg3c2EgQ" title="Barbie Princess Charm School">Hier is de link naar de trailer.</a> 
+<section>
+    <a href="https://www.youtube.com/watch?v=GztMg3c2EgQ" title="Barbie Princess Charm School">Hier is de link naar de trailer.</a>
+    </section>
 
 </head>
 </html>
