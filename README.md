@@ -5,11 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barbie Princess Charm School</title>
-
-    <header><h1>Barbie Princess Charm School</h1></header>
+ <header><h1>Barbie Princess Charm School</h1></header>
     <p>Ik hield van deze film toen ik klein was. Nu is het meer nostalgisch voor mij.</p>
 
-    <section>
+<section>
         <h3>Samenvatting</h3>
         <p>Barbie: De Prinsessenschool volgt het verhaal van Blair Willows, een vriendelijk meisje dat op magische wijze wordt uitgenodigd om deel te nemen aan een prestigieuze prinsessenschool. 
             <br>Hier leert ze alles over etiquette, dans, en koninklijke verantwoordelijkheden samen met haar nieuwe vriendinnen, Isla en Hadley.
@@ -23,9 +22,9 @@
         </p>
     </section>
 
-    <img src="/img/barbiefoto.jpg" alt="Barbie en vriendinnen" style="width: 700px;height: 400px;"> 
+<img src="/img/barbiefoto.jpg" alt="Barbie en vriendinnen" style="width: 700px;height: 400px;"> 
 
-    <a href="https://www.youtube.com/watch?v=GztMg3c2EgQ" title="Barbie Princess Charm School">Hier is de link naar de trailer.</a> 
+<a href="https://www.youtube.com/watch?v=GztMg3c2EgQ" title="Barbie Princess Charm School">Hier is de link naar de trailer.</a> 
 
 </head>
 </html>
