@@ -25,7 +25,17 @@
 <img src="/img/barbiefoto.jpg" alt="Barbie en vriendinnen" style="width: 700px;height: 400px;"> 
 
 <section>
-    <a href="https://www.youtube.com/watch?v=GztMg3c2EgQ" title="Barbie Princess Charm School">Hier is de link naar de trailer.</a>
+    <h5>Videos</h5>
+    <p>Dit is de movie trailer
+        <br><iframe width="700" height="400"
+        src="https://www.youtube.com/embed/GztMg3c2EgQ">
+        </iframe>
+    <br>
+        Dit is een muziek video van de film.
+        <br> <iframe width="700" height="400"
+        src="https://www.youtube.com/embed/2-1lrmGqLz0">
+        </iframe> 
+    </p>
     </section>
 
 </head>
