@@ -38,7 +38,7 @@
     </p>
     </section>
      <footer>    
-    <a href="url">https://dayjawfoo.github.io/my-hidden-movie/</a>
+    <a href="[url](https://dayjawfoo.github.io/my-hidden-movie/)">Publieke site</a>
     </footer>
 </head>
 </html>
